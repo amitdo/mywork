@@ -12,7 +12,7 @@
 
 * [Issues I opened](https://github.com/tmbdev/ocropy/issues/created_by/amitdo)
 * [Issues I was involved in](https://github.com/tmbdev/ocropy/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
-* (My commits)[https://github.com/tmbdev/ocropy/commits?author=amitdo]
+* [My commits](https://github.com/tmbdev/ocropy/commits?author=amitdo)
   * Only 1 commit, but it significantly improves the speed of OCR'ing/training.
 
 ### [clstm](https://github.com/tmbdev/clstm)
