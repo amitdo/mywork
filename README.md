@@ -6,6 +6,7 @@
 
 * [Issues I opened](https://github.com/tesseract-ocr/tesseract/issues/created_by/amitdo)
 * [Issues I was involved in](https://github.com/tesseract-ocr/tesseract/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
+* [My commits](https://github.com/tesseract-ocr/tesseract/commits?author=amitdo)
 
 ### [ocropy](https://github.com/tmbdev/ocropy)
 
