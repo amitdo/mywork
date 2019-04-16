@@ -1,4 +1,4 @@
-# mywork
+# My Work
 
 ## OCR
 
