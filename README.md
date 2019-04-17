@@ -26,3 +26,11 @@
 * [Issues I opened](https://github.com/kba/hocr-spec/issues/created_by/amitdo)
 * [Issues I was involved in](https://github.com/kba/hocr-spec/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
 * [My commits](https://github.com/kba/hocr-spec/commits?author=amitdo)
+
+## Misc
+
+### Meson
+
+* [Issues I opened](https://github.com/mesonbuild/meson/issues/created_by/amitdo)
+* [Issues I was involved in](https://github.com/mesonbuild/meson/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
+* [My commits](https://github.com/mesonbuild/meson/commits?author=amitdo)
