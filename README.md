@@ -31,7 +31,7 @@
 
 ## Misc
 
-### Meson
+### [Meson](https://github.com/mesonbuild/meson)
 
 * [Issues I opened](https://github.com/mesonbuild/meson/issues/created_by/amitdo)
 * [Issues I was involved in](https://github.com/mesonbuild/meson/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
