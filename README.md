@@ -19,7 +19,7 @@
 
 * [Issues I opened](https://github.com/tmbdev/clstm/issues/created_by/amitdo)
 * [Issues I was involved in](https://github.com/tmbdev/clstm/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
-[My commits](https://github.com/tmbdev/clstm/commits?author=amitdo)
+* [My commits](https://github.com/tmbdev/clstm/commits?author=amitdo)
 
 ### [hocr-spec](https://github.com/kba/hocr-spec)
 
