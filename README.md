@@ -29,6 +29,10 @@
 * [Issues I was involved in](https://github.com/kba/hocr-spec/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
 * [My commits](https://github.com/kba/hocr-spec/commits?author=amitdo)
 
+### [Leptonica](https://github.com/DanBloomberg/leptonica)
+
+* [Issues I was involved in](https://github.com/DanBloomberg/leptonica/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
+
 ## Misc
 
 ### [Meson](https://github.com/mesonbuild/meson)
