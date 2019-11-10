@@ -35,6 +35,10 @@
 
 * [Issues I was involved in](https://github.com/DanBloomberg/leptonica/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
 
+### tesserocr
+
+* [Issues I was involved in](https://github.com/sirfz/tesserocr/issues?q=is%3Aissue+involves%3Aamitdo+is%3Aopen)
+
 ## Misc
 
 ### [Meson](https://github.com/mesonbuild/meson)
