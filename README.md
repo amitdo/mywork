@@ -12,7 +12,7 @@
 
 ### [Tesseract Doc](https://github.com/tesseract-ocr/tessdoc) 
 
-* [My commits](https://github.com/tesseract-ocr/tessdoc/commits/master)
+* [My commits](https://github.com/tesseract-ocr/tessdoc/commits?author=amitdo)
 
 
 ### [ocropy](https://github.com/tmbdev/ocropy)
