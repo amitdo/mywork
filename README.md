@@ -10,7 +10,7 @@
 * [My PRs](https://github.com/tesseract-ocr/tesseract/pulls?q=is%3Apr+author%3Aamitdo+is%3Aclosed)
 * [PRs I was involved in](https://github.com/tesseract-ocr/tesseract/pulls?q=is%3Apr+involves%3Aamitdo+is%3Aopen)
 
-### Tesseract Doc](https://github.com/tesseract-ocr/tessdoc) 
+### [Tesseract Doc](https://github.com/tesseract-ocr/tessdoc) 
 
 * [My commits](https://github.com/tesseract-ocr/tessdoc/commits/master)
 
