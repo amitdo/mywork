@@ -9,7 +9,7 @@
 * [My commits](https://github.com/tesseract-ocr/tesseract/commits?author=amitdo)
 * [My PRs](https://github.com/tesseract-ocr/tesseract/pulls?q=is%3Apr+author%3Aamitdo+is%3Aclosed)
 * [PRs I was involved in](https://github.com/tesseract-ocr/tesseract/pulls?q=is%3Apr+involves%3Aamitdo+is%3Aopen)
-* [Tesseract Doc](https://github.com/tesseract-ocr/tessdoc/commits/master) - History of all my commits
+* [Tesseract Doc](https://github.com/tesseract-ocr/tessdoc/commits/master) - My commits
 
 ### [ocropy](https://github.com/tmbdev/ocropy)
 
